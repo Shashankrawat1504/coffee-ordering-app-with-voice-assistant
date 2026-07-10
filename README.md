@@ -1,104 +1,142 @@
 # ☕ Voice-Powered Coffee Ordering App
 
 ## 🚀 Project Overview
-<<<<<<< HEAD
-An innovative coffee ordering application that leverages Alan AI's voice assistant technology to provide a hands-free, intuitive ordering experience. Users can browse, select, and order coffee using voice commands.
-=======
-A modern web application that integrates AI voice technology to enable users to browse coffee menus, personalize their orders, and complete purchases using simple voice commands.
->>>>>>> 521cc74ee10e97813821284d1acd56e0ca31e545
+
+A modern coffee ordering web application that integrates **Alan AI Voice Assistant** to provide a hands-free and intuitive ordering experience. Users can browse coffee menus, customize their selections, manage their cart, and complete orders using simple voice commands.
+
+---
 
 ## ✨ Key Features
-- 🎙️ Voice-Powered Ordering
+
+- 🎙️ Voice-Powered Coffee Ordering
 - 📱 Responsive Web Interface
-- 🤖 AI-Driven Interaction
+- 🤖 AI-Driven Voice Interaction
 - 🏠 Seamless User Experience
 - 🎧 Hands-Free Navigation
+- 🛒 Cart Management
+- 💰 Automatic Price Calculation
+
+---
 
 ## 🛠 Technologies Used
+
 - HTML5
+- CSS3
 - JavaScript
 - Alan AI Voice Assistant
 - Responsive Design Techniques
 
+---
+
 ## 🔊 Voice Command Capabilities
+
+The application supports natural voice commands such as:
+
 - Browse coffee menu
 - Add items to cart
-- Remove items
+- Remove items from cart
 - Calculate total price
-- Process order
+- Process orders
 - Handle special requests
+
+---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
+
+Before running the project, ensure you have:
 - Modern web browser
 - Stable internet connection
 - Alan AI API Key
 
-### Installation
-1. Clone the repository
+---
+
+## 📥 Installation
+
+Clone the repository:
+
 ```bash
-git clone https://github.com/Harrie07/coffee-ordering-app-with-voice-assistant.git
+git clone https://github.com/Shashankrawat1504/coffee-ordering-app-with-voice-assistant.git
 ```
-<<<<<<< HEAD
 
-=======
->>>>>>> 521cc74ee10e97813821284d1acd56e0ca31e545
-2. Open `index.html` in your web browser
+Navigate to the project directory:
 
-### Alan AI Integration
-- Ensure you have a valid Alan AI project key
-<<<<<<< HEAD
-- Replace the existing Alan AI script with your project-specific configuration
+```bash
+cd coffee-ordering-app-with-voice-assistant
+```
+
+Open the application:
+
+```
+Open index.html in your web browser
+```
+
+---
+
+## 🤖 Alan AI Integration
+
+1. Create an Alan AI project.
+2. Get your Alan AI project key.
+3. Add your key to the Alan AI script.
+4. Replace the default configuration with your project-specific settings.
+
+---
 
 ## 🎮 Voice Command Examples
+
 - "Show me the menu"
 - "I want to order a cappuccino"
 - "Add two lattes to my cart"
 - "Remove the last item"
 - "What's my total?"
 - "Complete my order"
-=======
-- Replace the existing Alan AI script with your project-specific configuration.
->>>>>>> 521cc74ee10e97813821284d1acd56e0ca31e545
+
+---
 
 ## 🔧 Project Structure
-```
+
+```text
 coffee-ordering-app/
 │
-├── src/                    # Source files
-│   ├── index.html          # Main application page
-│   └── scripts/            # JavaScript files
-│       ├── alan.js         # Alan AI integration
+├── src/
+│   ├── index.html              # Main application page
+│   └── scripts/
+│       └── alan.js             # Alan AI integration
 │
-├── assets/                 # Static assets
-│   └── icons/              # UI icons
+├── assets/
+│   └── icons/                  # UI icons
+│
+└── README.md
 ```
 
+---
+
 ## 🌟 Future Enhancements
+
 - [ ] Persistent cart storage
 - [ ] User authentication
 - [ ] Extended voice command support
 - [ ] Payment integration
 - [ ] Order tracking
+- [ ] Backend integration
+- [ ] Database support
 
-<<<<<<< HEAD
+---
+
 ## 🤝 Contributing
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
 
+1. Fork the repository.
+2. Create a feature branch.
+3. Commit your changes.
+4. Push your branch.
+5. Open a Pull Request.
 
-## 📞 Contact
-Harshal Sakpal - [harshalsakpal21@gmail.com](mailto:harshalsakpal21@gmail.com)
+---
 
-Project Link: [https://github.com/Harrie07/coffee-ordering-app-with-voice-assistant](https://github.com/Harrie07/coffee-ordering-app-with-voice-assistant)
+## 👨‍💻 Author
 
-=======
+**Shashank Rawat**
 
-## 📞 Contact
-Shashank Rawat - [rawatshashank1504@gmail.com](mailto:rawatshashank1504@gmail.com)
->>>>>>> 521cc74ee10e97813821284d1acd56e0ca31e545
+📧 Email: rawatshashank1504@gmail.com
 
